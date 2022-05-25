@@ -1,0 +1,32 @@
+section.movies-container {
+  width: 100%;
+
+  .search-area {
+    width: 100%;
+    background-color: #fff;
+    padding: 10px 34px;
+    border-radius: 5px;
+    margin-bottom: 12px;
+    .mat-form-field-wrapper {
+      padding-bottom: 0 !important;
+    }
+
+    mat-form-field {
+      height: 60px;
+      position: relative;
+
+      mat-icon {
+        position: absolute;
+        position: absolute;
+        transform: translate(-77%, -36%);
+        right: -11%;
+        font-size: 31px;
+        color: #828282;
+      }
+    }
+  }
+
+  table {
+    width: 100%;
+  }
+}
